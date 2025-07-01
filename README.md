@@ -1,6 +1,6 @@
 # React To-Do List Application
 
-A simple and responsive To-Do List built using React and **Tailwind CSS. You can add tasks, mark them as complete, and track your progress.
+A simple and responsive To-Do List built using React and Tailwind CSS. You can add tasks, mark them as complete, and track your progress.
 
 ---
 
@@ -26,6 +26,6 @@ A simple and responsive To-Do List built using React and **Tailwind CSS. You can
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Shubhamkuls/react-todo-app.git
-cd react-todo-app
+git clone https://github.com/Shubhamkuls/To-Do-List.git
+cd To-Do-List
 
