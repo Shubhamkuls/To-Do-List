@@ -26,5 +26,6 @@ A simple and responsive To-Do List built using React and **Tailwind CSS. You can
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
-cd react-todo-list
+git clone https://github.com/Shubhamkuls/react-todo-app.git
+cd react-todo-app
+
